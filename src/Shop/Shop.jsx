@@ -4,7 +4,7 @@ import { FaStarHalfAlt } from "react-icons/fa";
 
 
 const Shop = ({shop,hendelBuyNow}) => {
-    let {name,coverImg,description,price,buyButton} = shop
+    let {id,name,coverImg,description,price,buyButton} = shop
     return (
         <div className="md:w-[80%] mx-auto mb-9 grrid">
            <div className="card bg-base-100 shadow-xl">
@@ -20,9 +20,9 @@ const Shop = ({shop,hendelBuyNow}) => {
     <FaStar />
     <FaStarHalfAlt />
     </div>
-    <p className="font-bold text-[20px]">{price}</p>
+    <p className="font-bold text-[20px]"><span className="text-red-600">$</span> {price}</p>
     <div className="flex justify-center">
-      <button className="btn btn-primary" onClick={()=>hendelBuyNow(shop)}>{buyButton}</button>
+      <button className="btn btn-primary" onClick={()=>hendelBuyNow(shop,id)}>{buyButton}</button>
     </div>
     </div>
    </div>

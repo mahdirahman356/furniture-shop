@@ -4,7 +4,7 @@
       "coverImg": "https://i.ibb.co/tzP0fb0/pexels-vecislavas-popa-1571468.jpg",
       "name": "Comfy Sofa",
       "description": "A luxurious sofa for your living room.",
-      "price": "$ 499.99",
+      "price": "499.99",
       "buyButton": "Buy Now",
       "removeButton": "Remove from Cart"
     },
@@ -13,7 +13,7 @@
       "coverImg": "https://i.ibb.co/wJwn807/pexels-marianne-238377.jpg",
       "name": "Modern Coffee Table",
       "description": "A sleek coffee table for your lounge.",
-      "price": "$ 149.99",
+      "price": "149.99",
       "buyButton": "Buy Now",
       "removeButton": "Remove from Cart"
     },
@@ -22,7 +22,7 @@
       "coverImg": "https://i.ibb.co/sP118fL/pexels-mark-1080721.jpg",
       "name": "Stylish Kitchen Furniture",
       "description": "Functional and elegant furniture for your kitchen.",
-      "price": "$ 799.99",
+      "price": "799.99",
       "buyButton": "Buy Now",
       "removeButton": "Remove from Cart"
     },
@@ -31,7 +31,7 @@
       "coverImg": "https://i.ibb.co/HhVc0kw/pexels-pixabay-37347.jpg",
       "name": "Professional Office Cabin Furniture",
       "description": "Sleek and ergonomic furniture for your office.",
-      "price": "$ 999.99",
+      "price": "999.99",
       "buyButton": "Buy Now",
       "removeButton": "Remove from Cart"
     },
@@ -40,7 +40,7 @@
       "coverImg": "https://i.ibb.co/NpzFHxj/pexels-huseyn-kamaladdin-667838.jpg",
       "name": "Modern Study Table",
       "description": "A practical study table for your workspace.",
-      "price": "$ 249.99",
+      "price": "249.99",
       "buyButton": "Buy Now",
       "removeButton": "Remove from Cart"
     },
@@ -49,7 +49,7 @@
       "coverImg": "https://i.ibb.co/d4X6vL4/pexels-steve-johnson-923192.jpg",
       "name": "Ergonomic Chair",
       "description": "Comfortable chair for long hours of sitting.",
-      "price": "$ 129.99",
+      "price": "129.99",
       "buyButton": "Buy Now",
       "removeButton": "Remove from Cart"
     },
@@ -58,7 +58,7 @@
       "coverImg": "https://i.ibb.co/K2Cz1Sm/pexels-isaw-company-945669.jpg",
       "name": "Classic Sofa",
       "description": "Timeless design for your cozy corner.",
-      "price": "$ 599.99",
+      "price": "599.99",
       "buyButton": "Buy Now",
       "removeButton": "Remove from Cart"
     },
@@ -67,7 +67,7 @@
       "coverImg": "https://i.ibb.co/jWztjqF/pexels-donald-tong-189333.jpg",
       "name": "Elegant Room Furniture Set",
       "description": "Complete furniture set for your elegant  room.",
-      "price": "$ 1999.99",
+      "price": "1999.99",
       "buyButton": "Buy Now",
       "removeButton": "Remove from Cart"
     },
@@ -76,7 +76,7 @@
       "coverImg": "https://i.ibb.co/BfV0Lj8/pexels-vecislavas-popa-1643383.jpg",
       "name": "Vintage Sofa",
       "description": "An antique sofa with a touch of elegance.",
-      "price": "$ 699.99",
+      "price": "699.99",
       "buyButton": "Buy Now",
       "removeButton": "Remove from Cart"
     }
