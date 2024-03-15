@@ -20,7 +20,7 @@ const Shop = ({shop,hendelBuyNow}) => {
     <FaStar />
     <FaStarHalfAlt />
     </div>
-    <p className="font-bold text-[20px]"><span className="text-red-600">$</span> {price}</p>
+    <p className="font-bold text-[20px]">{price} <span className="text-red-600">$</span></p>
     <div className="flex justify-center">
       <button className="btn btn-primary" onClick={()=>hendelBuyNow(shop,id)}>{buyButton}</button>
     </div>

@@ -36,7 +36,7 @@ function App() {
   return (
     <> 
       <Navbar></Navbar>
-      
+
       <Header></Header>
 
        <Card buy={buy} hendleDelete={hendleDelete}></Card>
