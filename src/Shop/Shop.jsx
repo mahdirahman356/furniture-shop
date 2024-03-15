@@ -6,8 +6,8 @@ import { FaStarHalfAlt } from "react-icons/fa";
 const Shop = ({shop,hendelBuyNow}) => {
     let {id,name,coverImg,description,price,buyButton} = shop
     return (
-        <div className="md:w-[80%] mx-auto mb-9 grrid">
-           <div className="card bg-base-100 shadow-xl">
+        <div className="w-[95%] md:w-[80%] mx-auto mb-9 grrid">
+           <div className="card bg-base-100 shadow-xl h-[500px]">
    <figure><img src={coverImg} alt="" /></figure>
   <div className="card-body">
     <h2 className=" text-[22px] font-bold">{name}</h2>
